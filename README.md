@@ -1,1 +1,1 @@
-# Visual-Analytics-Coursework-Project
+# Visual Analytics - Similarities Between Equities and Financial Time Series Forecasting Optimization
